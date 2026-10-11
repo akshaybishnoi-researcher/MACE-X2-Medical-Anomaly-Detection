@@ -37,3 +37,5 @@ datasets/
 *.log
 *.tmp
 artifacts/*.zip
+!artifacts/features.npy
+!artifacts/local_normal_position_prototypes.npy

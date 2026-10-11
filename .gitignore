@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large research artifacts
+artifacts/*.npz
+artifacts/*.npy
+artifacts/*.pt
+artifacts/*.pth
+artifacts/*.ckpt
+
+# Large datasets / images
+data/
+datasets/
+*.png
+*.jpg
+*.jpeg
+*.dcm
+
+# Temporary files
+*.log
+*.tmp

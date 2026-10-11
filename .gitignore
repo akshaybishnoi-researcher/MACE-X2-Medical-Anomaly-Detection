@@ -36,3 +36,4 @@ datasets/
 # Temporary files
 *.log
 *.tmp
+artifacts/*.zip

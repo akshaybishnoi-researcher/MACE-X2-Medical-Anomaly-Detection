@@ -1,0 +1,14 @@
+{
+    "configuration": "MACE Configuration-1",
+    "global_weight": 0.75,
+    "local_weight": 0.25,
+    "primary_threshold_method": "Maximum Youden J on validation",
+    "primary_threshold": -0.129416397483285,
+    "primary_validation_sensitivity": 0.5244679310844071,
+    "primary_validation_specificity": 0.710738255033557,
+    "secondary_threshold_method": "Highest specificity with validation sensitivity >= 0.90",
+    "secondary_threshold": -0.9754817630810936,
+    "secondary_validation_sensitivity": 0.9003909077747213,
+    "secondary_validation_specificity": 0.2151006711409396,
+    "test_used": false
+}
